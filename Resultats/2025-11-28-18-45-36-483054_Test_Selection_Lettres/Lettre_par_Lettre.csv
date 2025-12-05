@@ -1,0 +1,5 @@
+Subject;Letter_Index;Letter_Name;Execution_Time(s);Membrane_Acc_Mean;Membrane_Acc_Std;Spike_Acc_Mean;Spike_Acc_Std
+007;10;a;139.0409;50.3947;6.4675;50.0000;0.0000
+007;11;b;156.6148;62.1053;15.1093;48.2895;4.4737
+007;12;c;124.0460;50.0000;0.0000;50.0000;0.0000
+007;13;d;198.5023;59.0789;13.4211;50.5263;1.0526

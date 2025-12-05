@@ -1,0 +1,41 @@
+Subjects selected: 1
+
+Using device: cuda (NVIDIA GeForce RTX 4060 Laptop GPU)
+Processing Subject #0 : 033
+
+Fold #0 (Val: [1])
+Net initialized.
+[001/1000] Loss:0.0000 Acc:0.0%[002/1000] Loss:0.0000 Acc:0.0%[003/1000] Loss:0.0000 Acc:0.0%[004/1000] Loss:0.0000 Acc:0.0%[005/1000] Loss:0.0000 Acc:0.0%[006/1000] Loss:0.0000 Acc:0.0%[007/1000] Loss:0.0000 Acc:0.0%[008/1000] Loss:0.0000 Acc:0.0%[009/1000] Loss:0.0000 Acc:0.0%[010/1000] Loss:0.0000 Acc:0.0%[011/1000] Loss:0.0000 Acc:0.0%[012/1000] Loss:0.0000 Acc:0.0%[013/1000] Loss:0.0000 Acc:0.0%[014/1000] Loss:0.0000 Acc:0.0%[015/1000] Loss:0.0000 Acc:0.0%[016/1000] Loss:0.0000 Acc:0.0%
+Early stopping at epoch 16
+
+
+Final Test - Membrane: 52.63% | Spike: 50.00%
+Fold #1 (Val: [2])
+Net initialized.
+[001/1000] Loss:0.0000 Acc:0.0%[002/1000] Loss:0.0000 Acc:0.0%[003/1000] Loss:0.0000 Acc:0.0%[004/1000] Loss:0.0000 Acc:0.0%[005/1000] Loss:0.0000 Acc:0.0%[006/1000] Loss:0.0000 Acc:0.0%[007/1000] Loss:0.0000 Acc:0.0%[008/1000] Loss:0.0000 Acc:0.0%[009/1000] Loss:0.0000 Acc:0.0%[010/1000] Loss:0.0000 Acc:0.0%[011/1000] Loss:0.0000 Acc:0.0%[012/1000] Loss:0.0000 Acc:0.0%[013/1000] Loss:0.0000 Acc:0.0%[014/1000] Loss:0.0000 Acc:0.0%[015/1000] Loss:0.0000 Acc:0.0%[016/1000] Loss:0.0000 Acc:0.0%
+Early stopping at epoch 16
+
+
+Final Test - Membrane: 50.00% | Spike: 50.00%
+Fold #2 (Val: [3])
+Net initialized.
+[001/1000] Loss:0.0000 Acc:0.0%[002/1000] Loss:0.0000 Acc:0.0%[003/1000] Loss:0.0000 Acc:0.0%[004/1000] Loss:0.0000 Acc:0.0%[005/1000] Loss:0.0000 Acc:0.0%[006/1000] Loss:0.0000 Acc:0.0%[007/1000] Loss:0.0000 Acc:0.0%[008/1000] Loss:0.0000 Acc:0.0%[009/1000] Loss:0.0000 Acc:0.0%[010/1000] Loss:0.0000 Acc:0.0%[011/1000] Loss:0.0000 Acc:0.0%[012/1000] Loss:0.0000 Acc:0.0%[013/1000] Loss:0.0000 Acc:0.0%[014/1000] Loss:0.0000 Acc:0.0%[015/1000] Loss:0.0000 Acc:0.0%[016/1000] Loss:0.0000 Acc:0.0%
+Early stopping at epoch 16
+
+
+Final Test - Membrane: 50.00% | Spike: 50.00%
+Fold #3 (Val: [4])
+Net initialized.
+[001/1000] Loss:0.0000 Acc:0.0%[002/1000] Loss:0.0000 Acc:0.0%[003/1000] Loss:0.0000 Acc:0.0%[004/1000] Loss:0.0000 Acc:0.0%[005/1000] Loss:0.0000 Acc:0.0%[006/1000] Loss:0.0000 Acc:0.0%[007/1000] Loss:0.0000 Acc:0.0%[008/1000] Loss:0.0000 Acc:0.0%[009/1000] Loss:0.0000 Acc:0.0%[010/1000] Loss:0.0000 Acc:0.0%[011/1000] Loss:0.0000 Acc:0.0%[012/1000] Loss:0.0000 Acc:0.0%[013/1000] Loss:0.0000 Acc:0.0%[014/1000] Loss:0.0000 Acc:0.0%[015/1000] Loss:0.0000 Acc:0.0%[016/1000] Loss:0.0000 Acc:0.0%
+Early stopping at epoch 16
+
+
+Final Test - Membrane: 50.00% | Spike: 50.66%
+Full Training (No Fold)
+Net initialized.
+[001/1000] Loss:0.0000 Acc:0.0%[002/1000] Loss:0.0000 Acc:0.0%[003/1000] Loss:0.0000 Acc:0.0%[004/1000] Loss:0.0000 Acc:0.0%[005/1000] Loss:0.0000 Acc:0.0%[006/1000] Loss:0.0000 Acc:0.0%[007/1000] Loss:0.0000 Acc:0.0%[008/1000] Loss:0.0000 Acc:0.0%[009/1000] Loss:0.0000 Acc:0.0%[010/1000] Loss:0.0000 Acc:0.0%[011/1000] Loss:0.0000 Acc:0.0%[012/1000] Loss:0.0000 Acc:0.0%[013/1000] Loss:0.0000 Acc:0.0%[014/1000] Loss:0.0000 Acc:0.0%[015/1000] Loss:0.0000 Acc:0.0%[016/1000] Loss:0.0000 Acc:0.0%
+Early stopping at epoch 16
+
+
+Final Test - Membrane: 50.00% | Spike: 48.68%
+Saving Summary...

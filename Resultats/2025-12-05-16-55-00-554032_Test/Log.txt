@@ -1,0 +1,11 @@
+Subjects selected : All
+
+Subject #0 : 002
+
+Test dataset length : 152
+
+Fold #0
+
+Train instances : [2, 3, 4]
+Validation instance : [1]
+

@@ -1,0 +1,3 @@
+Subject #0 : 033
+  > Testing Letter: a (Index 10)... Done in 145.72s. Mem: 53.55% (+/-12.37) - Spike: 47.50% (+/-5.00)
+  > Testing Letter: b (Index 11)...

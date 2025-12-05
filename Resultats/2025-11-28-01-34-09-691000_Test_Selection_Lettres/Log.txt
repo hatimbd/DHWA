@@ -1,0 +1,4 @@
+Device used: cpu
+
+Subject #0 : 033
+  > Testing Letter: a (Index 10)...

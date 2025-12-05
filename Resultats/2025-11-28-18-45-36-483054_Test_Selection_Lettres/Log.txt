@@ -1,0 +1,8 @@
+Device used: cuda
+
+Subject #0 : 007
+  > Testing Letter: a (Index 10)... Done in 139.04s. Mem: 50.39% (+/-6.47) - Spike: 50.00% (+/-0.00)
+  > Testing Letter: b (Index 11)... Done in 156.61s. Mem: 62.11% (+/-15.11) - Spike: 48.29% (+/-4.47)
+  > Testing Letter: c (Index 12)... Done in 124.05s. Mem: 50.00% (+/-0.00) - Spike: 50.00% (+/-0.00)
+  > Testing Letter: d (Index 13)... Done in 198.50s. Mem: 59.08% (+/-13.42) - Spike: 50.53% (+/-1.05)
+  > Testing Letter: e (Index 14)...

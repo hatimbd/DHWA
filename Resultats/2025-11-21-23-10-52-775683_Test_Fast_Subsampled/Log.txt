@@ -1,0 +1,6 @@
+Subjects selected (0) : 
+
+Summary
+TOTAL
+Membrane test accuracy : 000nan%+/-000nan
+Spike    test accuracy : 000nan%+/-000nan
