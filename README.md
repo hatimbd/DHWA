@@ -13,11 +13,13 @@ _conda create -f environment.yml_
 
 ## Use
 
-
+```bash
 _conda activate snndhwa_
-
+```
+```python
 _python authentication.py_
-
+```
+### Files Guide
 - dhwa.py : code fourni par le prof (HIDDEN= 1000 et BATCH = 8)  
 - dhwa_cpu.py : "OPTIMISATION CRITIQUE CPU + OPTIMISATION ALGORITHMIQUE" sur tout le DATASET (avec HIDDEN= 128 et BATCH = 32)    
 - dhwa_fourletters.py : le meme que dhwa_cpu.py sauf que c'est sur que 4 lettres. (avec HIDDEN= 128 et BATCH = 8)  
