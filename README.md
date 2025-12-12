@@ -2,9 +2,9 @@
 
 
 ## Installation
-
+```bash
 _conda create -f environment.yml_
-
+```
 
 ## Paths
 
