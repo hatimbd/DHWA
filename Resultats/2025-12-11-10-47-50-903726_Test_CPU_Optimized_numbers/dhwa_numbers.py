@@ -19,7 +19,7 @@ torch.set_num_threads(1)
 # ---------------------------------
 
 # Tag
-TAG = "Test_CPU_Optimized"
+TAG = "Test_CPU_Optimized_numbers"
 
 # Display
 DISPLAY = True
@@ -46,8 +46,8 @@ UPPER  = list(range(36, 62))
 ALL    = list(range(0 , 62))
 # DATASET = LOWER + UPPER 
 
-# h, X, l, q, A
-DATASET = [17, 59, 21, 26, 36]
+# chiffres [1, 3, 5, 7]
+DATASET = [1, 3, 5, 7]
 TRAIN_INSTANCES = list(range(1, 5))
 TEST_INSTANCES  = [0]
 

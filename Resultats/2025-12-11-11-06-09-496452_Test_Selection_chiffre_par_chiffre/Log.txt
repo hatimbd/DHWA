@@ -1,0 +1,15 @@
+Device used: cuda
+
+Subject #0 : 033
+  > Testing Number: 0 (Index 0)... Done in 239.33s. Mem: 31.05% (+/-16.03) - Spike: 44.21% (+/-13.74)
+  > Testing Number: 1 (Index 1)... Done in 203.73s. Mem: 45.66% (+/-4.17) - Spike: 55.39% (+/-10.79)
+  > Testing Number: 2 (Index 2)... Done in 358.62s. Mem: 56.84% (+/-18.76) - Spike: 60.26% (+/-15.75)
+  > Testing Number: 3 (Index 3)... Done in 189.11s. Mem: 57.11% (+/-16.58) - Spike: 52.11% (+/-4.21)
+  > Testing Number: 4 (Index 4)... Done in 228.94s. Mem: 58.95% (+/-15.97) - Spike: 50.00% (+/-0.00)
+  > Testing Number: 5 (Index 5)... Done in 181.80s. Mem: 60.13% (+/-18.97) - Spike: 51.45% (+/-2.58)
+  > Testing Number: 6 (Index 6)... Done in 690.68s. Mem: 54.87% (+/-13.85) - Spike: 55.00% (+/-10.00)
+  > Testing Number: 7 (Index 7)... Done in 422.84s. Mem: 75.26% (+/-21.55) - Spike: 50.39% (+/-0.89)
+  > Testing Number: 8 (Index 8)... Done in 253.08s. Mem: 66.45% (+/-23.07) - Spike: 54.34% (+/-8.68)
+  > Testing Number: 9 (Index 9)... Done in 245.37s. Mem: 62.37% (+/-19.57) - Spike: 50.00% (+/-0.00)
+
+--- Fin de l'analyse lettre par lettre ---

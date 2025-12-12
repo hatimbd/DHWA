@@ -1,0 +1,4 @@
+Device used: cuda
+
+Subject #0 : 007
+  > Testing Letter: 0 (Index 0)...

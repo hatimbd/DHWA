@@ -16,7 +16,7 @@ import data
 
 
 # Tag
-TAG = "Test_Selection_Lettres"
+TAG = "Test_Selection_chiffre_par_chiffre"
 
 # Display
 DISPLAY = False # On désactive l'affichage détaillé pour aller plus vite et ne pas polluer la console
@@ -35,13 +35,14 @@ OUTPUT  = os.path.join(ROOT, RESULTS)
 # Dataset
 SUBJECTS = 1
 # On teste sur le sujet 033 (difficile) ou 007 pour voir quelles lettres fonctionnent
-SUBJECTS_ = ["033"] 
+SUBJECTS_ = ["007"] 
 
-# On prépare la liste complète des 52 lettres
+# On prépare la liste complète des 9 chiffres
 ALL_LETTERS = list(range(0, 62)) # 0-9 (chiffres) + 10-35 (minuscules) + 36-61 (majuscules)
 # Pour l'expérience, on va se concentrer sur les LETTRES (minuscules et majuscules)
-# On exclut les chiffres (0-9) pour l'instant
-LETTERS_ONLY = list(range(10, 62)) 
+# On exclut les lettres (10-62) pour l'instant
+# LETTERS_ONLY = list(range(10, 62)) 
+NUMBERS_ONLY = list(range(0, 10))
 
 TRAIN_INSTANCES = list(range(1, 5))
 TEST_INSTANCES  = [0]
@@ -209,7 +210,7 @@ for subject_, subject in enumerate(subjects) :
     
     # --- BOUCLE SUR CHAQUE LETTRE INDIVIDUELLEMENT ---
     # On va tester chaque lettre une par une pour voir laquelle est la plus discriminante
-    for letter_idx in LETTERS_ONLY:
+    for letter_idx in NUMBERS_ONLY:
         
         start_time = time.time() # Démarrage du chrono pour cette lettre
         letter_name = get_letter_name(letter_idx)
